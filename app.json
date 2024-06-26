@@ -14,7 +14,7 @@
     "formation": {
       "worker": {
         "quantity": 1,
-        "size": "free"
+        "size": "Standard-1X"
       }
     },
     "repository": "https://github.com/TeamYukki/YukkiChatBot",
